@@ -109,7 +109,7 @@
 
 </div>
 
-## ✍️ Random Developer Quote
+##  Random Developer Quote
 
 <div align="center">
 
