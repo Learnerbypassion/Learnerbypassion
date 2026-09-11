@@ -12,7 +12,7 @@
 <p><a href="https://github.com/learnerbypassion">GitHub</a></p>
 </td>
 <td width="36%" valign="middle" align="center">
-<img src="https://www.gitskins.com/api/section/portrait?username=learnerbypassion&theme=github-dark" width="240px" alt="Soham Bhattacharya animated colored ASCII portrait" />
+<img src="https://www.gitskins.com/api/section/portrait?username=learnerbypassion&theme=github-dark&v=2" width="240px" alt="Soham Bhattacharya animated colored ASCII portrait" />
 </td>
 </tr>
 </table>
@@ -42,7 +42,7 @@
 </table>
 
 <p align="center">
-<img src="https://www.gitskins.com/api/section/stats?username=learnerbypassion&theme=github-dark" width="100%" alt="Soham Bhattacharya GitHub proof metrics" />
+<img src="https://www.gitskins.com/api/section/stats?username=learnerbypassion&theme=github-dark&v=2" width="100%" alt="Soham Bhattacharya GitHub proof metrics" />
 </p>
 
 <h2>Selected work</h2>
@@ -50,7 +50,7 @@
 <table width="100%">
 <tr>
 <td width="58%" valign="top">
-<img src="https://www.gitskins.com/api/section/projects?username=learnerbypassion&theme=github-dark&repos=learnerbypassion%2FEmployee-Management-System%2Clearnerbypassion%2FflappyBirds%2Clearnerbypassion%2FLegal-Guardian%2Clearnerbypassion%2FSangeetListener" width="100%" alt="Soham Bhattacharya selected projects" />
+<img src="https://www.gitskins.com/api/section/projects?username=learnerbypassion&theme=github-dark&repos=learnerbypassion%2FEmployee-Management-System%2Clearnerbypassion%2FflappyBirds%2Clearnerbypassion%2FLegal-Guardian%2Clearnerbypassion%2FSangeetListener&v=2" width="100%" alt="Soham Bhattacharya selected projects" />
 </td>
 <td width="42%" valign="top">
 <h3><a href="https://github.com/Learnerbypassion/Employee-Management-System">Employee-Management-System</a></h3>
@@ -72,7 +72,7 @@
 <h2>Technical toolkit</h2>
 
 <p align="center">
-<img src="https://www.gitskins.com/api/section/stack?username=learnerbypassion&theme=github-dark" width="100%" alt="Soham Bhattacharya technology stack" />
+<img src="https://www.gitskins.com/api/section/stack?username=learnerbypassion&theme=github-dark&v=2" width="100%" alt="Soham Bhattacharya technology stack" />
 </p>
 
 <table width="100%">
@@ -88,7 +88,7 @@
 <h2>Consistency signal</h2>
 
 <p align="center">
-<img src="https://www.gitskins.com/api/section/heatmap?username=learnerbypassion&theme=github-dark" width="100%" alt="Soham Bhattacharya contribution activity" />
+<img src="https://www.gitskins.com/api/section/heatmap?username=learnerbypassion&theme=github-dark&v=2" width="100%" alt="Soham Bhattacharya contribution activity" />
 </p>
 
 <h2>Space Shooter</h2>
