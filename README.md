@@ -1,128 +1,118 @@
 <div align="center">
 
-# Hi, I'm Soham Bhattacharya 👋
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · learnerbypassion</sub></p>
+<h1>Soham Bhattacharya</h1>
+<h2>Frontend or full-stack engineer</h2>
+<p>Building useful software and sharing the work in public.</p>
+<p><strong>● Building and sharing work in public</strong></p>
 
-### Computer Science Engineering Student | Full-Stack & Mobile App Developer
-
+<p><a href="https://github.com/learnerbypassion">GitHub</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=learnerbypassion&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F211967792%3Fu%3D752e827147926d81aefdc8e1eef5434085fb9fc8%26v%3D4&color=1&v=recruiter-portrait-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/portrait?username=learnerbypassion&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F211967792%3Fu%3D752e827147926d81aefdc8e1eef5434085fb9fc8%26v%3D4&color=1&v=recruiter-portrait-1&mode=dark" width="240px" alt="Soham Bhattacharya animated colored ASCII portrait" />
+</picture>
+</td>
+</tr>
+</table>
 </div>
 
-## 💫 About Me
+<h2>What teams can evaluate quickly</h2>
 
-* 🎓 I am pursuing a **B.Tech in Computer Science and Engineering**.
-* 🏫 I am currently studying at **Guru Nanak Institute of Technology**.
-* 💻 I enjoy building full-stack web applications and mobile applications.
-* 🌱 I am passionate about learning new technologies and improving my problem-solving skills.
-* 🚀 Currently exploring **MERN Stack, React Native, Android Development, and DevOps**.
-* 😊 I love coding and turning ideas into real-world applications.
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · JavaScript · HTML · CSS</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>34 repositories · 7 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>405 contributions · 131 active days</p></td>
+</tr>
+</table>
 
-## 🌐 Connect With Me
+<p><sub>Building useful software and sharing the work in public.</sub></p>
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge\&logo=facebook\&logoColor=white)](https://facebook.com/soham.bhattacharya.19441)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/bhattacharya_soham.72)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/soham-bhattacharya-880523363)
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge\&logo=x\&logoColor=white)](https://x.com/SohamBhatt84437)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:soham2102006@gmail.com)
+<h2>Proof at a glance</h2>
 
-## 🚀 Tech Stack
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>34</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>7</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>405</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>6</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
 
-### 💻 Programming Languages
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=learnerbypassion&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F211967792%3Fu%3D752e827147926d81aefdc8e1eef5434085fb9fc8%26v%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=learnerbypassion&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F211967792%3Fu%3D752e827147926d81aefdc8e1eef5434085fb9fc8%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Soham Bhattacharya GitHub proof metrics" />
+</picture>
+</p>
 
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+<h2>Selected work</h2>
 
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=learnerbypassion&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F211967792%3Fu%3D752e827147926d81aefdc8e1eef5434085fb9fc8%26v%3D4&repos=learnerbypassion%2FEmployee-Management-System%2Clearnerbypassion%2FflappyBirds%2Clearnerbypassion%2FLegal-Guardian%2Clearnerbypassion%2FSangeetListener&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=learnerbypassion&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F211967792%3Fu%3D752e827147926d81aefdc8e1eef5434085fb9fc8%26v%3D4&repos=learnerbypassion%2FEmployee-Management-System%2Clearnerbypassion%2FflappyBirds%2Clearnerbypassion%2FLegal-Guardian%2Clearnerbypassion%2FSangeetListener&v=recruiter-projects-1&mode=dark" width="100%" alt="Soham Bhattacharya selected projects" />
+</picture>
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/Learnerbypassion/Employee-Management-System">Employee-Management-System</a></h3>
+<p>This is a practice project. I made this while learning the react</p>
+<p><sub>JavaScript · ⭐ 3 · 🍴 0</sub></p>
+<p><a href="https://github.com/Learnerbypassion/Employee-Management-System">Read the repository →</a></p>
+</td>
+</tr>
+</table>
 
----
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/Learnerbypassion/flappyBirds">flappyBirds</a></h3><p>A selected public project.</p><p><sub>JavaScript · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/Learnerbypassion/Legal-Guardian">Legal-Guardian</a></h3><p>https://legal-guardian.netlify.app</p><p><sub>JavaScript · ⭐ 4</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/Learnerbypassion/SangeetListener">SangeetListener</a></h3><p>A selected public project.</p><p><sub>JavaScript · ⭐ 0</sub></p></td>
+</tr>
+</table>
 
-### 🎨 Frontend Development
+<h2>Technical toolkit</h2>
 
-![React](https://img.shields.io/badge/React-%2320232A.svg?style=for-the-badge\&logo=react\&logoColor=%2361DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-%2335495E.svg?style=for-the-badge\&logo=vuedotjs\&logoColor=%234FC08D)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge\&logo=bootstrap\&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=learnerbypassion&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F211967792%3Fu%3D752e827147926d81aefdc8e1eef5434085fb9fc8%26v%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=learnerbypassion&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F211967792%3Fu%3D752e827147926d81aefdc8e1eef5434085fb9fc8%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Soham Bhattacharya technology stack" />
+</picture>
+</p>
 
----
+<table width="100%">
+<tr>
+<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>80% of public code</sub></td>
+<td width="20%" align="center"><strong>HTML</strong><br /><sub>7% of public code</sub></td>
+<td width="20%" align="center"><strong>CSS</strong><br /><sub>6% of public code</sub></td>
+<td width="20%" align="center"><strong>TypeScript</strong><br /><sub>6% of public code</sub></td>
+<td width="20%" align="center"><strong>Dockerfile</strong><br /><sub>0% of public code</sub></td>
+</tr>
+</table>
 
-### 📱 Mobile App Development
+<h2>Consistency signal</h2>
 
-![React Native](https://img.shields.io/badge/React_Native-%2320232A.svg?style=for-the-badge\&logo=react\&logoColor=%2361DAFB)
-![NativeWind](https://img.shields.io/badge/NativeWind-%2306B6D4.svg?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
-![Android](https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge\&logo=android\&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-%233DDC84.svg?style=for-the-badge\&logo=androidstudio\&logoColor=white)
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=learnerbypassion&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F211967792%3Fu%3D752e827147926d81aefdc8e1eef5434085fb9fc8%26v%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=learnerbypassion&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F211967792%3Fu%3D752e827147926d81aefdc8e1eef5434085fb9fc8%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Soham Bhattacharya contribution activity" />
+</picture>
+</p>
 
----
+<hr />
 
-### ⚙️ Backend Development
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/learnerbypassion">GitHub</a></td>
+</tr>
+</table>
 
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404D59.svg?style=for-the-badge\&logo=express\&logoColor=white)
-![MERN Stack](https://img.shields.io/badge/MERN_Stack-%23000000.svg?style=for-the-badge\&logo=stackshare\&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-%23000000.svg?style=for-the-badge\&logo=jsonwebtokens\&logoColor=white)
-![bcrypt](https://img.shields.io/badge/bcrypt-%23000000.svg?style=for-the-badge\&logo=npm\&logoColor=white)
-
----
-
-### 🗄️ Database & Data Management
-
-![MongoDB](https://img.shields.io/badge/MongoDB-%234EA94B.svg?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-%23880000.svg?style=for-the-badge\&logo=mongoose\&logoColor=white)
-
----
-
-### ☁️ File Handling & Media Storage
-
-![Multer](https://img.shields.io/badge/Multer-%23000000.svg?style=for-the-badge\&logo=npm\&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-%2334498F.svg?style=for-the-badge\&logo=cloudinary\&logoColor=white)
-![ImageKit](https://img.shields.io/badge/ImageKit-%23000000.svg?style=for-the-badge\&logo=imagekit\&logoColor=white)
-
----
-
-### 🚀 Deployment & DevOps
-
-![Docker](https://img.shields.io/badge/Docker-%230DB7ED.svg?style=for-the-badge\&logo=docker\&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=for-the-badge\&logo=netlify\&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge\&logo=render\&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232088FF.svg?style=for-the-badge\&logo=githubactions\&logoColor=white)
-
----
-
-### 🛠️ Development Tools
-
-![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge\&logo=postman\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="./profile/stats.svg" alt="Soham's GitHub Statistics" width="49%" />
-<img src="./profile/top-langs.svg" alt="Soham's Most Used Languages" width="49%" />
-
-<br/>
-
-<img src="./profile/streak.svg" alt="Soham's GitHub Contribution Streak" width="70%" />
-
-</div>
-
-##  Random Developer Quote
-
-<div align="center">
-
-![Random Developer Quote](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=radical)
-
-</div>
-
----
-
-<div align="center">
-
-### Thanks for visiting my profile! 😊
-
-![Profile Views](https://komarev.com/ghpvc/?username=Learnerbypassion\&style=for-the-badge\&color=blueviolet)
-
-</div>
+<p align="center"><sub>Soham Bhattacharya · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
