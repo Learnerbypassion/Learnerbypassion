@@ -6,7 +6,7 @@
   <img src="https://gitcard-server.onrender.com/api/section/brief?username=learnerbypassion&theme=github-dark&v=1" width="100%" alt="Recruiter Signal Brief" />
 </td>
 <td width="42%" valign="middle" align="center">
-  <img src="https://gitcard-server.onrender.com/api/section/portrait?username=learnerbypassion&theme=github-dark&v=2" width="100%" alt="Soham Bhattacharya animated ASCII portrait" />
+  <img src="https://gitcard-server.onrender.com/api/section/portrait?username=learnerbypassion&color=cyan&theme=github-dark&v=3" width="100%" alt="Soham Bhattacharya ASCII portrait" />
 </td>
 </tr>
 </table>
