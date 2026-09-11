@@ -12,7 +12,7 @@
 <p><a href="https://github.com/learnerbypassion">GitHub</a></p>
 </td>
 <td width="36%" valign="middle" align="center">
-<img src="https://github.com/learnerbypassion.png" width="180px" style="border-radius:50%" alt="Soham Bhattacharya" />
+<img src="https://gitcard-server.onrender.com/api/section/portrait?username=learnerbypassion&theme=github-dark" width="240px" alt="Soham Bhattacharya animated ASCII portrait" />
 </td>
 </tr>
 </table>
@@ -42,10 +42,14 @@
 </table>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=learnerbypassion&show_icons=true&theme=github_dark&hide_border=true&count_private=true" width="100%" alt="Soham Bhattacharya GitHub proof metrics" />
+<img src="https://gitcard-server.onrender.com/api/section/stats?username=learnerbypassion&theme=github-dark" width="100%" alt="Soham Bhattacharya GitHub proof metrics" />
 </p>
 
 <h2>Selected work</h2>
+
+<p align="center">
+<img src="https://gitcard-server.onrender.com/api/section/projects?username=learnerbypassion&theme=github-dark&repos=Learnerbypassion/Employee-Management-System,Learnerbypassion/flappyBirds,Learnerbypassion/Legal-Guardian,Learnerbypassion/SangeetListener" width="100%" alt="Soham Bhattacharya selected projects" />
+</p>
 
 <table width="100%">
 <tr>
@@ -77,7 +81,7 @@
 <h2>Technical toolkit</h2>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=learnerbypassion&layout=compact&theme=github_dark&hide_border=true" width="60%" alt="Soham Bhattacharya technology stack" />
+
 </p>
 
 <table width="100%">
