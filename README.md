@@ -23,8 +23,8 @@
 <table width="100%">
 <tr>
 <td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · JavaScript · HTML · CSS</p></td>
-<td width="33%" valign="top"><h3>Public proof</h3><p>34 repositories · 7 stars</p></td>
-<td width="33%" valign="top"><h3>Momentum</h3><p>405 contributions · 131 active days</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>37 repositories · 7 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>421 contributions · 130 active days</p></td>
 </tr>
 </table>
 
@@ -32,26 +32,27 @@
 
 <h2>Proof at a glance</h2>
 
-<table width="100%">
+<!-- <table width="100%">
 <tr>
-<td width="25%" align="center"><strong>34</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>37</strong><br /><sub>Repositories</sub></td>
 <td width="25%" align="center"><strong>7</strong><br /><sub>Stars</sub></td>
-<td width="25%" align="center"><strong>405</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>421</strong><br /><sub>Contributions</sub></td>
 <td width="25%" align="center"><strong>6</strong><br /><sub>Followers</sub></td>
 </tr>
-</table>
+</table> -->
 
 <p align="center">
-<img src="https://gitcard-server.onrender.com/api/section/stats?username=learnerbypassion&theme=github-dark" width="100%" alt="Soham Bhattacharya GitHub proof metrics" />
+<img src="https://gitcard-server.onrender.com/api/section/stats?username=learnerbypassion&theme=github-dark&v=2" width="100%" alt="Soham Bhattacharya GitHub proof metrics" />
 </p>
+
 
 <h2>Selected work</h2>
 
 <p align="center">
-<img src="https://gitcard-server.onrender.com/api/section/projects?username=learnerbypassion&theme=github-dark&repos=Learnerbypassion/Employee-Management-System,Learnerbypassion/flappyBirds,Learnerbypassion/Legal-Guardian,Learnerbypassion/SangeetListener" width="100%" alt="Soham Bhattacharya selected projects" />
+<img src="https://gitcard-server.onrender.com/api/section/projects?username=learnerbypassion&theme=github-dark&repos=Learnerbypassion/Employee-Management-System,Learnerbypassion/flappyBirds,Learnerbypassion/Legal-Guardian,Learnerbypassion/SangeetListener&v=2" width="100%" alt="Soham Bhattacharya selected projects" />
 </p>
 
-<table width="100%">
+<!-- <table width="100%">
 <tr>
 <td width="50%" valign="top">
 <h3><a href="https://github.com/Learnerbypassion/Employee-Management-System">Employee-Management-System</a></h3>
@@ -76,15 +77,15 @@
 <p><sub>JavaScript · ⭐ 0</sub></p>
 </td>
 </tr>
-</table>
+</table> -->
 
 <h2>Technical toolkit</h2>
 
 <p align="center">
-
+<img src="https://gitcard-server.onrender.com/api/section/languages?username=learnerbypassion&theme=github-dark" width="100%" alt="Soham Bhattacharya technical toolkit" />
 </p>
 
-<table width="100%">
+<!-- <table width="100%">
 <tr>
 <td width="20%" align="center"><strong>JavaScript</strong><br /><sub>80% of public code</sub></td>
 <td width="20%" align="center"><strong>HTML</strong><br /><sub>7% of public code</sub></td>
@@ -92,7 +93,7 @@
 <td width="20%" align="center"><strong>TypeScript</strong><br /><sub>6% of public code</sub></td>
 <td width="20%" align="center"><strong>Dockerfile</strong><br /><sub>0% of public code</sub></td>
 </tr>
-</table>
+</table> -->
 
 <h2>Consistency signal</h2>
 
