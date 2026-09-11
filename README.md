@@ -28,9 +28,8 @@
 </p>
 
 <h2>Selected work</h2>
-
 <p align="center">
-  <img src="https://gitcard-server.onrender.com/api/section/projects?username=learnerbypassion&theme=github-dark&repos=Learnerbypassion/Employee-Management-System,Learnerbypassion/flappyBirds,Learnerbypassion/Legal-Guardian,Learnerbypassion/SangeetListener&v=2" width="100%" alt="Soham Bhattacharya selected projects" />
+<img src="https://gitcard-server.onrender.com/api/section/projects?username=learnerbypassion&theme=github-dark&repos=Learnerbypassion/legal-guard-app,Learnerbypassion/SangeetListener,Learnerbypassion/education-platform,Learnerbypassion/image-management-app&v=4" width="100%" alt="Soham Bhattacharya selected projects" />
 </p>
 
 <h2>Technical toolkit</h2>
