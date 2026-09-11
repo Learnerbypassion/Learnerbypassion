@@ -12,7 +12,7 @@
 <p><a href="https://github.com/learnerbypassion">GitHub</a></p>
 </td>
 <td width="36%" valign="middle" align="center">
-<img src="https://www.gitskins.com/api/section/portrait?username=learnerbypassion&theme=github-dark&v=2" width="240px" alt="Soham Bhattacharya animated colored ASCII portrait" />
+<img src="https://github.com/learnerbypassion.png" width="180px" style="border-radius:50%" alt="Soham Bhattacharya" />
 </td>
 </tr>
 </table>
@@ -42,37 +42,42 @@
 </table>
 
 <p align="center">
-<img src="https://www.gitskins.com/api/section/stats?username=learnerbypassion&theme=github-dark&v=2" width="100%" alt="Soham Bhattacharya GitHub proof metrics" />
+<img src="https://github-readme-stats.vercel.app/api?username=learnerbypassion&show_icons=true&theme=github_dark&hide_border=true&count_private=true" width="100%" alt="Soham Bhattacharya GitHub proof metrics" />
 </p>
 
 <h2>Selected work</h2>
 
 <table width="100%">
 <tr>
-<td width="58%" valign="top">
-<img src="https://www.gitskins.com/api/section/projects?username=learnerbypassion&theme=github-dark&repos=learnerbypassion%2FEmployee-Management-System%2Clearnerbypassion%2FflappyBirds%2Clearnerbypassion%2FLegal-Guardian%2Clearnerbypassion%2FSangeetListener&v=2" width="100%" alt="Soham Bhattacharya selected projects" />
-</td>
-<td width="42%" valign="top">
+<td width="50%" valign="top">
 <h3><a href="https://github.com/Learnerbypassion/Employee-Management-System">Employee-Management-System</a></h3>
-<p>This is a practice project. I made this while learning the react</p>
+<p>This is a practice project. I made this while learning React.</p>
 <p><sub>JavaScript · ⭐ 3 · 🍴 0</sub></p>
-<p><a href="https://github.com/Learnerbypassion/Employee-Management-System">Read the repository →</a></p>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/Learnerbypassion/Legal-Guardian">Legal-Guardian</a></h3>
+<p>https://legal-guardian.netlify.app</p>
+<p><sub>JavaScript · ⭐ 4</sub></p>
 </td>
 </tr>
-</table>
-
-<table width="100%">
 <tr>
-<td width="33%" valign="top"><h3><a href="https://github.com/Learnerbypassion/flappyBirds">flappyBirds</a></h3><p>A selected public project.</p><p><sub>JavaScript · ⭐ 0</sub></p></td>
-<td width="33%" valign="top"><h3><a href="https://github.com/Learnerbypassion/Legal-Guardian">Legal-Guardian</a></h3><p>https://legal-guardian.netlify.app</p><p><sub>JavaScript · ⭐ 4</sub></p></td>
-<td width="33%" valign="top"><h3><a href="https://github.com/Learnerbypassion/SangeetListener">SangeetListener</a></h3><p>A selected public project.</p><p><sub>JavaScript · ⭐ 0</sub></p></td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/Learnerbypassion/flappyBirds">flappyBirds</a></h3>
+<p>A selected public project.</p>
+<p><sub>JavaScript · ⭐ 0</sub></p>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/Learnerbypassion/SangeetListener">SangeetListener</a></h3>
+<p>A selected public project.</p>
+<p><sub>JavaScript · ⭐ 0</sub></p>
+</td>
 </tr>
 </table>
 
 <h2>Technical toolkit</h2>
 
 <p align="center">
-<img src="https://www.gitskins.com/api/section/stack?username=learnerbypassion&theme=github-dark&v=2" width="100%" alt="Soham Bhattacharya technology stack" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=learnerbypassion&layout=compact&theme=github_dark&hide_border=true" width="60%" alt="Soham Bhattacharya technology stack" />
 </p>
 
 <table width="100%">
@@ -88,7 +93,11 @@
 <h2>Consistency signal</h2>
 
 <p align="center">
-<img src="https://www.gitskins.com/api/section/heatmap?username=learnerbypassion&theme=github-dark&v=2" width="100%" alt="Soham Bhattacharya contribution activity" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=learnerbypassion&theme=github-dark-blue&hide_border=true" width="70%" alt="Soham Bhattacharya contribution streak" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=learnerbypassion&theme=github-compact&hide_border=true" width="100%" alt="Soham Bhattacharya contribution activity" />
 </p>
 
 <h2>Space Shooter</h2>
@@ -108,4 +117,4 @@
 </tr>
 </table>
 
-<p align="center"><sub>Soham Bhattacharya · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+<p align="center"><sub>Soham Bhattacharya · Frontend / full-stack engineer building in public</sub></p>
