@@ -17,21 +17,9 @@ jobs:
         with:
           fetch-depth: 2   # required by gh-space-shooter
 
-      - name: Generate Space Shooter GIF
+      - name: Generate and commit Space Shooter GIF
         uses: czl9707/gh-space-shooter@v2
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           output-path: 'space-shooter.gif'
           strategy: 'random'
-
-      - name: Publish GIF to output branch
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-
-          # Create/switch to an orphan "output" branch containing only the gif
-          git checkout --orphan output-tmp
-          git rm -rf . > /dev/null 2>&1 || true
-          git add space-shooter.gif
-          git commit -m "Update space shooter GIF"
-          git push -f origin output-tmp:output
