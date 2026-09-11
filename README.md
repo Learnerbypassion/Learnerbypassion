@@ -108,10 +108,10 @@
 
 <h2>Space Shooter</h2>
 
-<p>The contribution graph becomes a playable arcade scene. GitHub Actions refreshes the animation daily and publishes it to this repository's <code>output</code> branch.</p>
+<p>The contribution graph becomes a playable arcade scene. GitHub Actions refreshes the animation daily and commits it straight back into this repository.</p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/learnerbypassion/learnerbypassion/output/space-shooter.gif" width="100%" alt="Soham Bhattacharya contribution graph Space Shooter game" />
+<img src="space-shooter.gif" width="100%" alt="Soham Bhattacharya contribution graph Space Shooter game" />
 </p>
 
 <hr />
